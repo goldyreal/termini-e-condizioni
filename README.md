@@ -20,3 +20,5 @@ Ci riserviamo il diritto di modificare queste Condizioni di Servizio in qualsias
 Accettando queste Condizioni di Servizio, confermi di avere almeno l'età legalmente autorizzata per utilizzare Zelden.
 
 Grazie per aver scelto Zelden!
+Per qualsiasi problema contattarci direttamente sul nostro supporto ufficiale di Discord: https://discord.gg/apbCuupq2B
+https://zelden.eu
