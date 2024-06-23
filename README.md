@@ -1,5 +1,3 @@
-# termini-di-servizio
-
 # Condizioni di Utilizzo Zelden
 
 Salve! Grazie per aver scelto Zelden. Prima di utilizzarlo, ti invitiamo a leggere attentamente e accettare le seguenti Condizioni di Utilizzo che disciplinano l'uso del nostro bot. Utilizzandolo accetti automaticamente le nostre condizioni, se non le accetti ti preghiamo di non utilizzarlo.
