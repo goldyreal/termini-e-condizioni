@@ -21,4 +21,4 @@ Accettando queste Condizioni di Servizio, confermi di avere almeno l'età legalm
 
 Grazie per aver scelto Zelden!
 Per qualsiasi problema contattarci direttamente sul nostro supporto ufficiale di Discord: https://discord.gg/apbCuupq2B
-https://zelden.eu
+https://zelden.frig.dev
